@@ -2,7 +2,8 @@
 # 📊 Mutual Funds Performance Analysis - Power BI Dashboard
 
 This repository contains a **Power BI Dashboard** project that analyzes mutual funds based on risk, returns, performance trends, and investor considerations.  
-The goal is to help investors make **data-driven investment decisions** by providing insights into diversification, risk-return trade-offs, and fund consistency.
+Problem statement : Retail investors and analysts need a simple, interactive tool to compare mutual funds across performance, risk, and fees to make informed buy/switch decisions.
+Goal: Build a Power BI dashboard that aggregates mutual-fund data (NAV history, expense ratios, fund categories) to enable comparative analysis, performance vs benchmark, risk-return visuals, and top/bottom fund discovery.
 
 ---
 
