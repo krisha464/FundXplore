@@ -1,4 +1,4 @@
-# 📖 Data Dictionary 
+# 📖 Data Dictionary
 > **Project:** FundXplore – Power BI Mutual Funds Analysis Dashboard  
 > **Author:** Kanika Dogra  
 > **Tool:** Power BI Desktop (Power Query + DAX)  
